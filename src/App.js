@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>Hello there!</p>
       </header>
+      <p className="App-intro">I was changed on the Feature branch</p>
     </div>
   );
 }
